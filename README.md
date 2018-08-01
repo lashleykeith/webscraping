@@ -1,11 +1,10 @@
 # webscraping
-A webscraping app for google that I am working on.
-This app has some problems because google has changed something in their code.  It is suppose to open up image files and save them to the home folder.  However it just opens up pages and doesn't save anything. It reads a csv file that I have saved a long with it.  You can edit this to suit your purposes.
+This app will download the pictures from the the csv list created when you run `python list.py`.
 
 ## GeckoDriver
 you will also need to download geckodriver place it the folder where python is installed.
 
 ## To run
-This program uses Python 3.6 to run use in your terminal after you cd into the terminal `python app7.py`
+This program uses Python 3.6 to run use in your terminal after you cd into the terminal `python app8.py`
 
 
